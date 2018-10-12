@@ -8,5 +8,13 @@ const lastImageSelector = () => {
 };
 
 const ninjaBabySelector = () => {
-  return $('#')
+  return $('#baby-ninja');
+};
+
+const divSelector = () => {
+  return $('.pics');
+};
+
+const firstListItem = () => {
+  return $('#pics-list:first-child')
 }
