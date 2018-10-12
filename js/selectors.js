@@ -17,4 +17,4 @@ const divSelector = () => {
 
 const firstListItem = () => {
   return $('#pics-list ul:first-child');
-}
+};
